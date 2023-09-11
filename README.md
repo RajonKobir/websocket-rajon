@@ -1,7 +1,5 @@
 # A RealTime Chat Application using Node, Express, socket.io. Deployed at Heroku!!!
 
-https://websocket-rajon.herokuapp.com/
-
 Use Multiple Browsers or users visited at a time. Then they'll be able to chat each other!
 No chat rooms yet, I'm working on it...
 No database attached, so don't refresh the page, unless old chat messages will be gone!!!
